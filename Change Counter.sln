@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change Counter", "Change Counter.csproj", "{BAF83A53-A8B1-4255-9806-738EDCFA4685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF83A53-A8B1-4255-9806-738EDCFA4685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF83A53-A8B1-4255-9806-738EDCFA4685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF83A53-A8B1-4255-9806-738EDCFA4685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF83A53-A8B1-4255-9806-738EDCFA4685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEC7281-B328-4B0A-9674-5100948EE124}
+	EndGlobalSection
+EndGlobal
